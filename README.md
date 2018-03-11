@@ -1,5 +1,5 @@
 # heroes-java-spring-api
-A simple RESTful API  in Java with spring-boot and MySQL
+A simple RESTful API in Java with spring-boot and MySQL
 
 ### Table of Contents
 
@@ -19,8 +19,8 @@ A simple RESTful API  in Java with spring-boot and MySQL
 2. Update /src/main/resources/application.properties file:
 
   ```bash
-  spring.datasource.username=here_you_MySQL_user
-  spring.datasource.password=here_you_MySQL_password
+  spring.datasource.username=here_your_MySQL_user
+  spring.datasource.password=here_your_MySQL_password
   ```
 
 3. Execute the application:
@@ -32,7 +32,7 @@ A simple RESTful API  in Java with spring-boot and MySQL
 <a name="Testing"></a>
 ## Testing
 
-This program uses defatuls of Spring-Boot with Maven scope.
+This program uses defaults of Spring-Boot with Maven scope.
 
 To test the program run:
 
